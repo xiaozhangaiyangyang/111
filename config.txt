@@ -1,0 +1,30 @@
+{
+# 公众号配置
+# 公众号appId
+"app_id": "wx88110ab1168b57ba",
+# 公众号appSecret
+"app_secret": "79f15a8938a593c46a2558246a74cba4
+",
+# 模板消息id
+"template_id": "BnvaG52zVSBxRyjuQE9vNRxP8z8gIrVEnRkFfPdhVuY",
+# 接收公众号消息的微信号，如果有多个，需要在[]里用英文逗号间隔，例如["wx1", "wx2"]
+"user": ["oAYo-5jMjtFcrHwSw2IckK4tFG_Y"，“oAYo-5sVy4ZnmtlB2LZgBYPuij3I”],
+
+# 信息配置
+# 和风天气apikey
+"weather_key": "8a224532221e4c17ba6680b66769ba18",
+# 天行数据apikey
+"tian_api": "c079827dde04741c0711fd44c4a4c003 ",
+# 所在地区，可为省，城市，区，县，同时支持国外城市，例如伦敦(国外城市可能获取不到pm2.5，空气质量，今日建议等数据)
+"region": "惠水县",
+# 生日1
+"birthday1": {"name": "狗蛋", "birthday": "2003-09-27"},
+# 生日2
+"birthday2": {"name": "阳阳", "birthday": "r2003-10-27"},
+# 在一起的日子，格式同上
+"love_date": "2021-10-29",
+# 金句中文，如果为空，默认会读取金山的每日金句
+"note_ch": "每天都爱你，吃汉堡帮狗蛋吃菜，时时刻刻爱着狗蛋",
+# 金句英文
+"note_en": ""
+}
